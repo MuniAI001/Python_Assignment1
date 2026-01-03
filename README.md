@@ -1,2 +1,1 @@
-# Python_Assignment1
-Python_Assignment1
+Week2_Python_Assignments
